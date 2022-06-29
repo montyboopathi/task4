@@ -1,0 +1,14 @@
+2022-06-28 18:00:03,611 INFO  com.crud.Employee  - program is stated
+  2022-06-28 18:00:11,382 INFO  com.crud.JdbcConnection  - driver is connected
+  2022-06-28 18:01:56,775 INFO  com.crud.Employee  - program is stated
+  2022-06-28 18:01:58,946 INFO  com.crud.CreateEmployee  - program Started
+  2022-06-28 18:01:59,446 INFO  com.crud.JdbcConnection  - driver is connected
+  2022-06-28 18:03:57,686 INFO  com.crud.Employee  - program is stated
+  2022-06-28 18:04:00,251 INFO  com.crud.CreateEmployee  - program Started
+  2022-06-28 18:04:00,758 INFO  com.crud.JdbcConnection  - driver is connected
+  2022-06-28 18:04:21,374 WARN  com.crud.CreateEmployee  - data inserted
+  2022-06-29 12:45:23,486 INFO  com.crud.Employee  - program is stated
+  2022-06-29 12:45:29,198 INFO  com.crud.CreateEmployee  - program Started
+  2022-06-29 12:45:29,895 INFO  com.crud.JdbcConnection  - driver is connected
+  2022-06-29 12:45:49,130 INFO  com.crud.CreateEmployee  - data inserted
+  
